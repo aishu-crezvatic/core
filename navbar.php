@@ -5,8 +5,8 @@
     <?php
     // define("BASEURL", "http://192.168.1.35/corecrushing/");
     // define("BASEURL", "https://coreCrushing.in/");
-    // define("BASEURL", "https://localhost/corecrushing/");
-    define("BASEURL", "https://labindiadigital.com/corecrushing/");
+    define("BASEURL", "http://localhost/corecrushing/");
+    // define("BASEURL", "https://labindiadigital.com/corecrushing/");
     ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

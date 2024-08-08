@@ -53,8 +53,8 @@ $id = isset($_GET['id']) ? $_GET['id'] : null;
 
 // define("BASEURL", "http://192.168.1.35/corecrushing");
 // define("BASEURL", "https://coreCrushing.in/");
-// define("BASEURL", "https://localhost/coreCrushing/");
-define("BASEURL", "https://labindiadigital.com/corecrushing/");
+define("BASEURL", "https://localhost/corecrushing/");
+// define("BASEURL", "https://labindiadigital.com/corecrushing/");
 include 'data2.php';
 
 // Get the current URI

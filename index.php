@@ -40,6 +40,11 @@ switch ($request) {
 
     // Product page
     // Crushers
+    // new-applicatio
+     case '/corecrushing/new-applicatio':
+    require __DIR__ . '/new-applicatio.php';
+    break;
+
   case '/corecrushing/Crushers/jaw-crushers':
     require __DIR__ . '/productpage.php';
     break;
