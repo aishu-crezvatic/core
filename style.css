@@ -827,14 +827,14 @@ body {
 
 }
 
-.swiper-button-prev,
-.swiper-rtl .swiper-button-next {
+.custom-container-banner .swiper-button-prev,
+.custom-container-banner .swiper-rtl .swiper-button-next {
     background-color: red !important;
     border-radius: 100%;
 }
 
-.swiper-button-next:after,
-.swiper-button-prev:after {
+.custom-container-banner .swiper-button-next:after,
+.custom-container-banner .swiper-button-prev:after {
     font-size: 15px !important;
     font-weight: 900;
     color: white;
